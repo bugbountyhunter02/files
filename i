@@ -1,0 +1,1 @@
+sudo apt update &&  sudo apt install wget  curl git -y && wget https://raw.githubusercontent.com/cetriext/files/master/.tmux.conf && sudo apt install  apt-utils zip  unzip nethogs golang nmap apt-utils whois nmap jq ncdu iotop masscan htop tmux speedtest-cli htop python3-pip -y && echo "force_color_prompt=yes" >> .bashrc && sleep 1 && source ~/.bashrc   &&  tmux new -s test 
